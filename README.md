@@ -1,3 +1,3 @@
-# advanced-business-analytics-airbnb
-Assignment 1 (Airbnb price prediction) of Advanced Business Analytics
-Assignment 2
+# Assignment 1 (Airbnb price prediction) of Advanced Business Analytics
+
+Airbnb, an online marketplace for homestays, holds a significant role in shaping the hospitality industry. Travelers place great emphasis on accommodation conditions when traveling. In this regard, Airbnb simplifies the process of finding the most suitable property by considering customer needs and various available parameters such as ’location,’ ’maximum number of guests,’ and ’review scores,’ among others. The company’s revenue is directly influenced by property pricing, making it crucial to gain insights into the factors that impact the price per night. This understanding is vital for achieving operational excellence and a positive return on investment (ROI). The study provides a detailed description of the data‐preprocessing steps, followed by the development of a model to predict the ’price per night.’ The final section discusses the limitations of the study followed by conclusion.
